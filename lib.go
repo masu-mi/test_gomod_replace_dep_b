@@ -1,4 +1,4 @@
-package test_gomod_replace_dep_b
+package test_gomod_replace_dep_a
 
 type OriginalInt int32
 
